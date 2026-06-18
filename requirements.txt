@@ -1,0 +1,11 @@
+Django==5.2.*
+django-mongodb-backend==5.2.*
+
+
+djangorestframework>=3.14
+django-cors-headers>=4.0
+openai>=1.30
+pymongo>=4.7
+python-dotenv>=1.0
+gunicorn>=21.0
+pyodbc>=5.0
